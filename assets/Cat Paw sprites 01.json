@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"Symbol 115 instance 10000":
+{
+	"frame": {"x":5,"y":5,"w":215,"h":582},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":582},
+	"sourceSize": {"w":215,"h":582}
+},
+"Symbol 116 instance 10000":
+{
+	"frame": {"x":5,"y":592,"w":182,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":134},
+	"sourceSize": {"w":182,"h":134}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.1.31044",
+	"image": "Cat Paw sprites 01.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":1024},
+	"scale": "1"
+}
+}
